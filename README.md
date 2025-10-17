@@ -1,2 +1,2 @@
 # AI-and-Machine-Learning
-Repository of the exercises of the Applied AI and Machine Learning Course
+Repository for the exercises of the Applied AI and Machine Learning Course (exercises are done using the KNIME Analytics platform).
